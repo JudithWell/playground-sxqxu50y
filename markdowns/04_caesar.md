@@ -40,11 +40,7 @@ geknackt = verschluesseln(text, ... )
 
 Die Entschlüsselung von Texten, die mit dem Verschiebeverfahren verschlüsselt wurden, sollen mit demselben Schlüssel entschlüsselt werden. Entwickle hierfür eine geeignete Funktion `entschluesseln()`. Du kannst dafür wieder die Methode `verschluesseln()` aufrufen!
 
-<<<<<<< HEAD
-@[Verschlüsseln durch Verschiebung]({
-=======
 @[Entschlüsseln des Geheimtextes]({
->>>>>>> 8531f7b (typo)
     "stubs": ["entschluesseln.py"],
     "command": "python3 test_entschluesseln.py",
     "project": "python"
