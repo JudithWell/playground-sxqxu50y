@@ -1,7 +1,14 @@
-title: Python Project
+title: Caesar-Verschlüsselung in Python
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Geheime Nachrichten
+  statement: markdowns/01_geheimenachrichten.md
+- title: Codierung von Zeichen
+  statement: markdowns/02_zeichencodierung.md
+- title: Buchstabenverschiebung mit Python
+  statement: markdowns/03_verschiebung.md
+- title: Funktion zur Verschlüsselung mit dem Verschiebeverfahren
+  statement: markdowns/04_caesar.md
+  
 projects:
   python:
     root: /python-project
