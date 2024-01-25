@@ -29,13 +29,14 @@ Teste auch selbst mit verschiedenen Funktionsaufrufen!
 Texte, die mit der Funktion `verschluesseln()` verschlüsselt wurden, können mit derselben Funktion entschlüsselt werden, wenn man den Schlüssel geeignet wählt. Erprobe das mit geeigneten Beispielen!
 
 ```python runnable
-from verschluesseln import verschluesseln
+from intern import verschluesseln
 
 text = "BEISPIEL"
 schluessel = 0
 geheim = verschluesseln(text, schluessel)
 print(geheim)
 geknackt = verschluesseln(text, ... )
+print(geknackt)
 ```
 
 Die Entschlüsselung von Texten, die mit dem Verschiebeverfahren verschlüsselt wurden, sollen mit demselben Schlüssel entschlüsselt werden. Entwickle hierfür eine geeignete Funktion `entschluesseln()`. Du kannst dafür wieder die Methode `verschluesseln()` aufrufen!
