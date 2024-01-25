@@ -30,7 +30,7 @@ Texte, die mit der Funktion `verschluesseln()` verschlüsselt wurden, können mi
 
 @[]({
     "stubs": ["entschluesseln_runnable.py"],
-    "command": "python3 test_entschluesseln.py",
+    "command": "python3 entschluesseln_runnable.py",
     "project": "python"
 })
 
