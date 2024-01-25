@@ -2,7 +2,7 @@
 
 Die Übermittlung geheimer Nachrichten hat eine lange Tradition. Auch der römische Staatsmann und Feldherr Julius Caesar (* 100 v. Chr. in Rom; † 44 v. Chr. in Rom) benutzte ein Verfahren zum Verschlüsseln von Nachrichten.
 
-Caesar ließ jeden Buchstabe durch einen im Alphabet verschobenen Buchstaben ersetzen.
+Caesar ließ jeden Buchstaben durch einen im Alphabet verschobenen Buchstaben ersetzen.
 
 Das folgende Beispiel zeigt, wie das Wort "CAESAR" durch Verschiebung um drei Stellen verschlüsselt wird:
 

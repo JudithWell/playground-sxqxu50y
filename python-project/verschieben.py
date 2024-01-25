@@ -1,5 +1,5 @@
 # Verschiebt das zeichen um schluessel Buchstaben und gibt das neue Zeichen wieder zurück
-def verschieben(c):
+def verschieben(zeichen, schluessel):
     
     
     
