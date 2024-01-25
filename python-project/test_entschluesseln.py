@@ -1,4 +1,4 @@
-from verschluesseln import verschluesseln
+from intern import verschluesseln
 from entschluesseln import entschluesseln
 
 def send_msg(channel, msg):
