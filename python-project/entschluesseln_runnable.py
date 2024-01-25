@@ -3,6 +3,6 @@ from intern import verschluesseln
 text = "BEISPIEL"
 schluessel = 0
 geheim = verschluesseln(text, schluessel)
-print(geheim)
+print("Verschlüsselter Text: ", geheim)
 geknackt = verschluesseln(geheim, ... )
-print(geknackt)
+print("Entschlüsselter Text: ", geknackt)
