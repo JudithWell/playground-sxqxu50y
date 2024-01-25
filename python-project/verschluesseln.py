@@ -1,5 +1,5 @@
 # Import deiner Methode verschieben(zeichen, schluessel)
-from verschieben import verschieben
+from intern import verschieben
 
 def verschluesseln(text, schluessel):
     

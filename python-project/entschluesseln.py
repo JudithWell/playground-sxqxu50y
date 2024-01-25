@@ -1,4 +1,4 @@
-from verschluesseln import verschluesseln
+from intern import verschluesseln
 
 def entschluesseln(geheimtext, schluessel):
     

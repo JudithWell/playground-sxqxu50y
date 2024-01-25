@@ -19,7 +19,7 @@ Ergänze die Funktionsdefinition im folgenden Programmgerüst passend. Die erste
 Teste auch selbst mit verschiedenen Funktionsaufrufen!
 
 @[Verschlüsseln durch Verschiebung]({
-    "stubs": ["verschluesseln.py", "verschieben.py"],
+    "stubs": ["verschluesseln.py"],
     "command": "python3 test_verschluesseln.py",
     "project": "python"
 })
