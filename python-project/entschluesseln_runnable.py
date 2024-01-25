@@ -4,5 +4,5 @@ text = "BEISPIEL"
 schluessel = 0
 geheim = verschluesseln(text, schluessel)
 print(geheim)
-geknackt = verschluesseln(text, ... )
+geknackt = verschluesseln(geheim, ... )
 print(geknackt)
